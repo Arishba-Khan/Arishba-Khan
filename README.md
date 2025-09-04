@@ -11,15 +11,7 @@
  
 🎯 I’m currently working on **My Personal Portfolio Website**.
  
-🧠 I’m currently learning **AI/ML**.
- 
-👥 I’m looking to collaborate with **talents in IT Industry**.
-
-💬 Hire my IT Agency (Freelevance) [here](https://freelevance.vercel.app) for the Best IT Solutions for your Businesses.
-
 📧 How to reach me cyberfre4k.com@gmail.com .
-
-💡 Fun fact **The world's first website went live on August 6, 1991**.
 
  </div>
  
