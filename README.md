@@ -22,7 +22,7 @@
   <a href="https://www.linkedin.com/in/arishbakhan" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-BC1124?style=for-the-badge&logo=linkedin&logoColor=ffffff" target="_blank" />
   </a>
-  <a href="https://arishan.vercel.app" target="_blank">
+  <a href="https://arishba_khan.vercel.app" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-BC1124?style=for-the-badge&logo=todoist&logoColor=ffffff" target="_blank" />
   </a>
 </div>
