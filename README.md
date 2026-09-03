@@ -11,13 +11,13 @@
 
 <div align="left">
 This is Arishba khan. <br>
-Creative frontend developer and designer focused on building clean, high-performance, and visually intentional web experiences.  
-Founder, CEO, and Creative Director at <strong>Next Release</strong> — a creative agency crafting future-ready digital products.
+Creative technologist and Agentic AI Engineer, engineering digital experiences that scale brands.  
+Founder, and Creative Director at <strong>Next Release</strong> — a creative agency crafting future-ready digital products.
 
 <br/>
 
 
-🎯 Working on my Agency's Portfolio  
+Check my Portfolio here <strong>https://arishba-khan.vercel.app</strong> 
 📧 Reach out at <strong>thearishbakhan@gmail.com</strong>
 
 </div>
