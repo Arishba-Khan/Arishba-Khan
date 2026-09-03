@@ -40,7 +40,7 @@ Check my Portfolio here <strong>https://arishba-khan.vercel.app</strong>
 <br/>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,nextjs,tailwind,gsap" />
+  <img src="https://skillicons.dev/icons?i=ts,js,nextjs,threejs,tailwind,gsap" />
 </div>
 
 <br/>
