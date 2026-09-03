@@ -1,9 +1,9 @@
 <h1 align="center">
-   <img src="https://readme-typing-svg.herokuapp.com?font=Tiny5&size=40&pause=1000&color=ffffff&background=330851&center=true&vCenter=true&random=false&width=500&height=100&lines=Assalam-o-Alikum!;Have+a+nice+day!!" alt="Typing SVG" />
+   <img src="https://readme-typing-svg.herokuapp.com?font=Tiny5&size=40&pause=1000&color=ffffff&background=330851&center=true&vCenter=true&random=false&width=500&height=100&lines=Assalam-o-Alikum!;This+Is+Arishba+Khan!!" alt="Typing SVG" />
 </h1>
 
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Monofett&size=44&duration=4000&pause=1000&color=330851&center=true&vCenter=true&width=420&height=44&lines=Creative+Developer;and+Designer;Based+in+Pakistan" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Monofett&size=44&duration=4000&pause=1000&color=330851&center=true&vCenter=true&width=520&height=44&lines=Creative+Technologist;and+Agentic+AI+Engineer" alt="Typing SVG" />
 </h2>
 
 <br/>
