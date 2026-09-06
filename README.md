@@ -1,9 +1,9 @@
 <h1 align="center">
-   <img src="https://readme-typing-svg.herokuapp.com?font=Tiny5&size=40&pause=1000&color=ffffff&background=330851&center=true&vCenter=true&random=false&width=500&height=100&lines=Assalam-o-Alikum!;This+Is+Arishba+Khan!!" alt="Typing SVG" />
+   <img src="https://readme-typing-svg.herokuapp.com?font=Tiny5&size=40&pause=1000&color=ffffff&background=330851&center=true&vCenter=true&random=false&width=500&height=100&lines=Assalam-o-Alikum!;[...]"
 </h1>
 
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Monofett&size=44&duration=4000&pause=1000&color=330851&center=true&vCenter=true&width=520&height=44&lines=Creative+Technologist;and+Agentic+AI+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Monofett&size=44&duration=4000&pause=1000&color=330851&center=true&vCenter=true&width=520&height=44&lines=Creative+Technologist;and+Agentic+[...]
 </h2>
 
 <br/>
@@ -25,6 +25,9 @@ Check my Portfolio here <strong>https://arishba-khan.vercel.app</strong>
 <br/>
 
 <div align="center"> 
+  <a href="https://arishba-khan.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-330851?style=for-the-badge&logo=vercel&logoColor=ffffff" />
+  </a>
   <a href="mailto:thearishbakhan@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-330851?style=for-the-badge&logo=gmail&logoColor=ffffff" />
   </a>
